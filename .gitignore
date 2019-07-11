@@ -1,0 +1,18 @@
+# JetBrains - Developer Tools for Professionals and Teams
+.idea/
+
+# Visual Studio Code - Code Editing - Redefined
+.vscode/
+
+# Operating System
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Runtime Data
+pids/
+*.pid
+*.seed
+*.pid.lock
