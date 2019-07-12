@@ -50,7 +50,7 @@ Another scenario would be that you want to grant an application access to your A
 Identity providers enables you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
 You may have used an external identity providers in the past if you've used your GitHub or Facebook account to sign in to another website.
 
-<div align="center"><img src="assets/identity-providers.png" width="900"></div>
+<div align="center"><img src="assets/identity-providers.png" width="750"></div>
 
 ### Account settings
 
