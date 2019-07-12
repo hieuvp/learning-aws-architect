@@ -6,9 +6,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [AWS Identity and Access Management (IAM)](#aws-identity-and-access-management-iam)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## [AWS Identity and Access Management (IAM)](01-aws-iam/README.md)
 
 
 ## References
