@@ -19,13 +19,13 @@
 
 ## CIA Triad
 
-<div align="center"><img src="assets/confidentiality.png" width="500"></div>
+<div align="center"><img src="assets/confidentiality.png" width="600"></div>
 <br />
 
-<div align="center"><img src="assets/integrity.png" width="500"></div>
+<div align="center"><img src="assets/integrity.png" width="600"></div>
 <br />
 
-<div align="center"><img src="assets/availability.png" width="500"></div>
+<div align="center"><img src="assets/availability.png" width="600"></div>
 
 ## Users
 
