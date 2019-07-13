@@ -47,3 +47,5 @@ Identity providers enables you to let users gain access to your AWS resources wi
 
 
 ## References
+
+- [AWS fundamentals: What is IAM?](https://medium.com/@pmuens/aws-fundamentals-what-is-iam-b57f2fb88f66)
