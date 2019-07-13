@@ -1,5 +1,6 @@
 # AWS Identity and Access Management (IAM)
 
+> Pronounce "**I am**".
 
 ## Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -7,9 +8,10 @@
 
 
 - [CIA Triad](#cia-triad)
-- [Users](#users)
-- [Groups](#groups)
-- [Roles](#roles)
+- [Principals](#principals)
+  - [Users](#users)
+  - [Groups](#groups)
+  - [Roles](#roles)
 - [Policies](#policies)
 - [Identity Providers](#identity-providers)
 - [Encryption Keys](#encryption-keys)
@@ -27,15 +29,17 @@
 
 <div align="center"><img src="assets/availability.png" width="600"></div>
 
-## Users
+## Principals
+
+### Users
 
 Create users if you want to grant other users access to your AWS account without sharing your login credentials.
 
-## Groups
+### Groups
 
 Groups make it easy to manage access for multiple users.
 
-## Roles
+### Roles
 
 Roles are similar to users as they hold an AWS identity with permissions.
 Roles are often used if you e.g. want to grant access to AWS resources that the user normally does not have.
