@@ -51,7 +51,7 @@ Another scenario would be that you want to grant an application access to your A
 With policies you can define permissions for users, groups and roles.
 Policies are the building blocks to define what action can be performed for what resource.
 
-<div align="center"><img src="assets/permission-statement.png" width="700"></div>
+<div align="center"><img src="assets/permission-statement.png" width="600"></div>
 
 ## Identity Providers
 
