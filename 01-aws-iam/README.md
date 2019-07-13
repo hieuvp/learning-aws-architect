@@ -10,8 +10,8 @@
 - [Groups](#groups)
 - [Roles](#roles)
 - [Policies](#policies)
-- [Identity providers](#identity-providers)
-- [Encryption keys](#encryption-keys)
+- [Identity Providers](#identity-providers)
+- [Encryption Keys](#encryption-keys)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -37,13 +37,13 @@ Another scenario would be that you want to grant an application access to your A
 With policies you can define permissions for users, groups and roles.
 Policies are the building blocks to define what action can be performed for what resource.
 
-## Identity providers
+## Identity Providers
 
 Identity providers enables you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
 
 <div align="center"><img src="assets/identity-providers.png" width="900"></div>
 
-## Encryption keys
+## Encryption Keys
 
 
 ## References
