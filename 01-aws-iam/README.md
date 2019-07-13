@@ -14,7 +14,6 @@
   - [Roles](#roles)
 - [Policies](#policies)
 - [Identity Providers](#identity-providers)
-- [Encryption Keys](#encryption-keys)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -58,8 +57,6 @@ Policies are the building blocks to define what action can be performed for what
 Identity providers enable you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
 
 <div align="center"><img src="assets/identity-providers.png" width="900"></div>
-
-## Encryption Keys
 
 
 ## References
