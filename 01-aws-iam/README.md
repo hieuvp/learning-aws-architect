@@ -13,6 +13,8 @@
   - [Groups](#groups)
   - [Roles](#roles)
 - [Policies](#policies)
+  - [Denying Access with User Policies](#denying-access-with-user-policies)
+  - [Denying Access with Group Policies](#denying-access-with-group-policies)
 - [Identity Providers](#identity-providers)
 - [References](#references)
 
@@ -52,12 +54,15 @@ Policies are the building blocks to define what action can be performed for what
 
 <div align="center"><img src="assets/permission-statement.png" width="600"></div>
 
+### Denying Access with User Policies
+
+### Denying Access with Group Policies
+
 ## Identity Providers
 
 Identity providers enable you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
 
 <div align="center"><img src="assets/identity-providers.png" width="900"></div>
-
 
 ## References
 
