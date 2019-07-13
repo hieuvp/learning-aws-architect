@@ -39,7 +39,7 @@ Policies are the building blocks to define what action can be performed for what
 
 ## Identity Providers
 
-Identity providers enables you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
+Identity providers enable you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
 
 <div align="center"><img src="assets/identity-providers.png" width="900"></div>
 
