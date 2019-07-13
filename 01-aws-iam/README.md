@@ -6,6 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [CIA Triad](#cia-triad)
 - [Users](#users)
 - [Groups](#groups)
 - [Roles](#roles)
@@ -16,6 +17,15 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## CIA Triad
+
+<div align="center"><img src="assets/confidentiality.png" width="500"></div>
+<br />
+
+<div align="center"><img src="assets/integrity.png" width="500"></div>
+<br />
+
+<div align="center"><img src="assets/availability.png" width="500"></div>
 
 ## Users
 
