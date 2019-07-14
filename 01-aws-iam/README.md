@@ -58,6 +58,7 @@ Policies are the building blocks to define what action can be performed for what
 ### Policy Types
 
 <div align="center"><img src="assets/policy-types.png" width="900"></div>
+<br />
 
 **`Managed Policies`** - Standalone identity-based policies that you can attach to multiple users, groups, and roles.
 
