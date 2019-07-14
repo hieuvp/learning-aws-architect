@@ -3,7 +3,7 @@
 > Pronounce "**I am**".
 
 <br />
-<div align="center"><img src="assets/aws-iam.png" width="500"></div>
+<div align="center"><img src="assets/aws-iam.png" width="400"></div>
 
 ## Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
