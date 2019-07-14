@@ -13,6 +13,7 @@
   - [Groups](#groups)
   - [Roles](#roles)
 - [Policies](#policies)
+  - [Policy Types](#policy-types)
   - [Denying Access with User Policies](#denying-access-with-user-policies)
   - [Denying Access with Group Policies](#denying-access-with-group-policies)
 - [Identity Providers](#identity-providers)
@@ -53,6 +54,18 @@ With policies you can define permissions for users, groups and roles.
 Policies are the building blocks to define what action can be performed for what resource.
 
 <div align="center"><img src="assets/permission-statement.png" width="600"></div>
+
+### Policy Types
+
+<div align="center"><img src="assets/policy-types.png" width="900"></div>
+
+**`Managed Policies`** - Standalone identity-based policies that you can attach to multiple users, groups, and roles.
+
+- **`AWS Managed Policies`**: Managed policies that are created and managed by AWS.
+	
+- **`Customer Managed Policies`**: Managed policies that you create and manage. Customer managed policies provide more precise control over your policies than AWS managed policies.
+
+**`Inline Policies`** - Policies that you create and manage and that are embedded directly into a single user, group, or role.
 
 ### Denying Access with User Policies
 
