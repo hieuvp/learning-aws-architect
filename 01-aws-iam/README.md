@@ -55,10 +55,24 @@ Policies are the building blocks to define what action can be performed for what
 
 <div align="center"><img src="assets/permission-statement.png" width="600"></div>
 
+- **`AdministratorAccess`**
+
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "*",
+            "Resource": "*"
+        }
+    ]
+}
+```
+
 ### Policy Types
 
 <div align="center"><img src="assets/policy-types.png" width="900"></div>
-<br />
 
 **`Managed Policies`** - Standalone identity-based policies that you can attach to multiple users, groups, and roles.
 
