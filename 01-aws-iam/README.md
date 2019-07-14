@@ -13,8 +13,10 @@
   - [Groups](#groups)
   - [Roles](#roles)
 - [Policies](#policies)
+  - [Policy Types](#policy-types)
+  - [Denying Access with User Policies](#denying-access-with-user-policies)
+  - [Denying Access with Group Policies](#denying-access-with-group-policies)
 - [Identity Providers](#identity-providers)
-- [Encryption Keys](#encryption-keys)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,14 +55,27 @@ Policies are the building blocks to define what action can be performed for what
 
 <div align="center"><img src="assets/permission-statement.png" width="600"></div>
 
+### Policy Types
+
+<div align="center"><img src="assets/policy-types.png" width="900"></div>
+
+**`Managed Policies`** - Standalone identity-based policies that you can attach to multiple users, groups, and roles.
+
+- **`AWS Managed Policies`**: Managed policies that are created and managed by AWS.
+	
+- **`Customer Managed Policies`**: Managed policies that you create and manage. Customer managed policies provide more precise control over your policies than AWS managed policies.
+
+**`Inline Policies`** - Policies that you create and manage and that are embedded directly into a single user, group, or role.
+
+### Denying Access with User Policies
+
+### Denying Access with Group Policies
+
 ## Identity Providers
 
 Identity providers enable you to let users gain access to your AWS resources with the help of an external identity provider (IdP).
 
 <div align="center"><img src="assets/identity-providers.png" width="900"></div>
-
-## Encryption Keys
-
 
 ## References
 
