@@ -16,6 +16,7 @@
   - [Roles](#roles)
 - [Policies](#policies)
   - [Policy Types](#policy-types)
+  - [Access Advisor](#access-advisor)
   - [Denying Access with User Policies](#denying-access-with-user-policies)
   - [Denying Access with Group Policies](#denying-access-with-group-policies)
 - [Identity Providers](#identity-providers)
@@ -85,6 +86,13 @@ Policies are the building blocks to define what action can be performed for what
 **`Inline Policies`** - Policies that you create and manage and that are embedded directly into a single user, group, or role.
 
 <div align="center"><img src="assets/inline-policies.png" width="900"></div>
+
+### Access Advisor
+
+Access advisor shows the service permissions granted to this user and when those services were last accessed.
+You can use this information to revise your policies.
+
+<div align="center"><img src="assets/access-advisor.png" width="900"></div>
 
 ### Denying Access with User Policies
 
