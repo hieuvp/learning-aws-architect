@@ -1,6 +1,6 @@
 # AWS Identity and Access Management (IAM)
 
-> Pronounce "**I am**".
+> Pronounce **`I am`**.
 
 <div align="center"><img src="assets/aws-iam.png" width="400"></div>
 
