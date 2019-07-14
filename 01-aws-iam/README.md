@@ -2,7 +2,6 @@
 
 > Pronounce "**I am**".
 
-<br />
 <div align="center"><img src="assets/aws-iam.png" width="400"></div>
 
 ## Table of Contents
