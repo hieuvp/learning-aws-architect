@@ -1,6 +1,6 @@
 # AWS Identity and Access Management (IAM)
 
-> Pronounce "**I am**".
+> Pronounce **`I am`**.
 
 <div align="center"><img src="assets/aws-iam.png" width="400"></div>
 
@@ -74,7 +74,7 @@ Policies are the building blocks to define what action can be performed for what
 
 ### Policy Types
 
-<div align="center"><img src="assets/policy-types.png" width="900"></div>
+<div align="center"><img src="assets/managed-policies.png" width="900"></div>
 
 **`Managed Policies`** - Standalone identity-based policies that you can attach to multiple users, groups, and roles.
 
