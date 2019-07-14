@@ -2,6 +2,8 @@
 
 > Pronounce "**I am**".
 
+<div align="center"><img src="assets/aws-iam.png" width="400"></div>
+
 ## Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -55,6 +57,21 @@ Policies are the building blocks to define what action can be performed for what
 
 <div align="center"><img src="assets/permission-statement.png" width="600"></div>
 
+- **`AdministratorAccess`**
+
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "*",
+            "Resource": "*"
+        }
+    ]
+}
+```
+
 ### Policy Types
 
 <div align="center"><img src="assets/policy-types.png" width="900"></div>
@@ -66,6 +83,8 @@ Policies are the building blocks to define what action can be performed for what
 - **`Customer Managed Policies`**: Managed policies that you create and manage. Customer managed policies provide more precise control over your policies than AWS managed policies.
 
 **`Inline Policies`** - Policies that you create and manage and that are embedded directly into a single user, group, or role.
+
+<div align="center"><img src="assets/inline-policies.png" width="900"></div>
 
 ### Denying Access with User Policies
 
